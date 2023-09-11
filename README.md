@@ -1,2 +1,2 @@
 # MLSA_AI
-For the Recuirtment Challenge by MLSA
+For the Recruitment Challenge For MLSA
